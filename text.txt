@@ -1,0 +1,1 @@
+create a function in python . so, we can multiply two numbers.
